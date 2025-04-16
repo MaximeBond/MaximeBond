@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximeBond
 - 👀 I’m interested in ... Mechatronics, Software, Collaboration
-- 🌱 I’m currently learning ... Python, Machine Learning
+- 🌱 I’m currently learning ... Cybersecurity, AWS IoT
 - 💞️ I’m looking to collaborate on ... Software Development, Web, Embedded systems
 - 📫 How to reach me ... https://www.linkedin.com/in/maxime-bonnaud-b1789a1a2/
 - ⚡ Fun fact: ... Cat person 
